@@ -21,7 +21,7 @@ repository               : "zhiwei-hu/zhiwei-hu.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile.jpg"
   name             : "Zhiwei Hu"
   pronouns         : "he/him"  
   bio              : "PhD Student, Nanjing University"
