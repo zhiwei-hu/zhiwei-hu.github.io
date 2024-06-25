@@ -2,7 +2,7 @@
 title: "Mining Potential Cooperative Relationships Between Institutions Based on Similarity Network of Self-Reported Research Interests"
 collection: publications
 permalink: /publication/2022-04-30-potential-cooperative-relationships
-excerpt: 'Mining Potential Cooperative Relationships Between Institutions Based on Similarity Network of Self-Reported Research Interests'
+excerpt: 'Detected subgroups in the library and information science community based on the institutional intellectual similarity.'
 date: 2022-04-30
 venue: 'Knowledge Management Forum'
 slidesurl: 'http://academicpages.github.io/files/slides3.pdf'
