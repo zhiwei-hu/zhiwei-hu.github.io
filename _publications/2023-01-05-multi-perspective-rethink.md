@@ -2,7 +2,7 @@
 title: "The Multi-Perspective Rethink of Information Resources Management from Pedagogy Practice and Disciplinary Competitions"
 collection: publications
 permalink: /publication/2023-01-05-multi-perspective-rethink
-excerpt: 'The Multi-Perspective Rethink of Information Resources Management from Pedagogy Practice and Disciplinary Competitions'
+excerpt: 'Discussed on the framework of knowledge diversity, reanalysis and integration in response to the disciplinary renaming of library and information science (LIS) to information resources management (IRM) in China.'
 date: 2023-01-05
 venue: 'Library and Information Service'
 paperurl: 'http://academicpages.github.io/files/paper3.pdf'
