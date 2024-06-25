@@ -1,5 +1,5 @@
 ---
-title: "Community Identity: Disciplinary Relationships and Intellectual Contributions of Scholars from Digital Humanities Centers Worldwide"
+title: "Community Identity: Disciplinary Relationships and Intellectual Contributions of Scholars from Digital Humanities Centres Worldwide"
 collection: talks
 type: "Talk"
 permalink: /talks/2023-10-21-community-identity
@@ -8,4 +8,4 @@ date: 2023-10-21
 location: "Beijing, China"
 ---
 
-Community Identity: Disciplinary Relationships and Intellectual Contributions of Scholars from Digital Humanities Centers Worldwide
+Community Identity: Disciplinary Relationships and Intellectual Contributions of Scholars from Digital Humanities Centres Worldwide
