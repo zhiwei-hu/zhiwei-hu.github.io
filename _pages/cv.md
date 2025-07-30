@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+<div class="wordwrap">You can also find my CV documents here: <a href="file/Zhiwei-Hu-English-CV-2025-07-30.pdf">English</a> | <a href="file/Zhiwei-Hu-Chinese-CV-2025-07-30.pdf">中文</a>.</div>
+
 ## Research Interests
 
 + Scientometrics and the Science of Science
