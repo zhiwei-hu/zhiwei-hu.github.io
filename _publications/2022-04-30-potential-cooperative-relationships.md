@@ -1,4 +1,4 @@
-<img width="432" height="60" alt="image" src="https://github.com/user-attachments/assets/434f56a0-db97-428d-a0a5-f84887e8f0b4" />---
+---
 title: "Mining Potential Cooperative Relationships Between Institutions Based on Similarity Network of Self-Reported Research Interests"
 collection: publications
 permalink: /publication/2022-04-30-potential-cooperative-relationships
