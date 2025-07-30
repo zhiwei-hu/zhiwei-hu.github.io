@@ -2,7 +2,7 @@
 title: "Evaluation of IT Courses Penetration in LIS Education and Its Enlightenments to Curriculum"
 collection: publications
 permalink: /publication/2019-12-25-it-courses-penetration
-excerpt: 'Measured the dynamics of information technology courses within global library and information science curriculum.'
+excerpt: 'Measured the dynamics of information technology courses within global library and information science curriculum'
 date: 2019-12-25
 venue: 'Library and Information'
 paperurl: 'https://tsyqb.gslib.com.cn/CN/10.11968/tsyqb.1003-6938.2019097'
