@@ -7,8 +7,10 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD student in Information Resources Management at the School of Information Management, Nanjing University. Currently, I am also a postgraduate research assistant at the Laboratory of Data Intelligence and Interdisciplinary Innovation, Nanjing University, an affiliated lab to the school. Before pursuing my PhD degree at Nanjing University in 2022, I completed both my MSc (Information Science) and BSc (Information Management and Information System) at the same institution.
+I am Zhiwei Hu (Pronounciation: _Jee-Way Hoo_), a PhD candidate in Information Resources Management at the School of Information Management, Nanjing University (NJU), where I also serve as a postgraduate research assistant at the Laboratory of Data Intelligence and Interdisciplinary Innovation. I earned both my MSc in Information Science and BSc in Information Management and Systems from NJU, focusing on curriculum development, intellectual structures, and interdisciplinarity within Library and Information Science (LIS). From 2025 to 2026, I will join the School of Advanced Study, University of London, as a visiting doctoral researcher, supported by the China Scholarship Council.
 
-My research interests include Scientometrics, Digital Humanities, Library and Information Science Education, and Quantitative Policy Analysis. My PhD project is provisionally centred around the evolution of the Digital Humanities community and its disciplinary identity.
+My research interests lie at the intersection of Scientometrics, Digital Humanities (DH), LIS Education, and Quantitative Policy Analysis. My current doctoral project investigates how knowledge integration mediates the relationship between team diversity and scholarly impact, with the DH community serving as a key research context.
 
-For more detailed information about my works and experience, please refer to other pages on this website. I am always open to discussions and collaborations, so please do not hesitate to reach out to me.
+I have presented my work at international conferences such as iConference and the Global Forum for Chinese Doctoral Students in Digital Humanities, and my studies have been published in several leading Chinese information science journals. Beyond research, I actively engage in collaborative projects on interdisciplinary education reform, data policy simulation, and smart city data spaces, aiming to bridge academic inquiry with real-world applications.
+
+For a detailed overview of my academic journey, please explore the other pages of this site.
