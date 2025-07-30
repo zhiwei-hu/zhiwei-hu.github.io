@@ -5,9 +5,8 @@ permalink: /publication/2019-12-25-it-courses-penetration
 excerpt: 'Measured the dynamics of information technology courses within global library and information science curriculum.'
 date: 2019-12-25
 venue: 'Library and Information'
-slidesurl: ''
 paperurl: 'https://tsyqb.gslib.com.cn/CN/10.11968/tsyqb.1003-6938.2019097'
-citation: 'Pei, L.*, & Hu, Z. (2019). Evaluation of IT courses penetration in LIS education and its enlightenments to curriculum renovation in China. Library and Information, 38(6), 52–58 [in Chinese]. doi:10.11968/tsyqb.1003-6938.2019097'
+citation: 'Pei, L., & Hu, Z. (2019). Evaluation of IT courses penetration in LIS education and its enlightenments to curriculum renovation in China. Library and Information, 38(6), 52–58 [in Chinese]. doi:10.11968/tsyqb.1003-6938.2019097'
 ---
 
 Library and information science (LIS) education faces the challenges to infuse information technology (IT) into its curriculum. This paper collected the curricular data from 139 LIS schools, and took Penetration Index (PI) and Coverage Index (CI) of IT courses to measure the extent of IT penetration. The penetration and coverage of IT courses in LIS education depend on not only the good will of LIS educators but also to a large extent the IT development status in the home country/region of LIS schools.
