@@ -2,7 +2,7 @@
 title: "Research-Field Identification and Characteristics-Difference Analysis Based on Self-Reported Expertise in CVs"
 collection: publications
 permalink: /publication/2020-12-30-research-field-identification
-excerpt: 'Illustrated the intellectual landscape of library and information science by mining faculty&apos;s CVs.'
+excerpt: 'Illustrated the intellectual landscape of library and information science by mining faculty&apos;s CVs'
 date: 2020-12-30
 venue: 'Journal of Library and Data'
 paperurl: 'https://wxysjxb.ajcass.com/Magazine/Show?id=76427'
