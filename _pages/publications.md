@@ -9,6 +9,8 @@ author_profile: true
   <div class="wordwrap">You can find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
 {% endif %}
 
+中文版学术成果目录可参照[我的荟知学术主页](http://www.huezhi.com/scholar/XmL4kc51Npn7oak4l51BU55q_GCz-pt4Kwdh4t87QPP7TrnRh_E9pxM5HGmdxvut)。
+
 {% include base_path %}
 
 {% for post in site.publications reversed %}
