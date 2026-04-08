@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-<div class="wordwrap">You can also find my CV documents here: <a href="https://zhiwei-hu.github.io/files/Zhiwei-Hu-English-CV-2025-07-30.pdf">English</a> | <a href="https://zhiwei-hu.github.io/files/Zhiwei-Hu-Chinese-CV-2025-07-30.pdf">中文</a>.</div>
+<div class="wordwrap">You can also find my CV documents here: <a href="https://zhiwei-hu.github.io/files/Zhiwei-Hu-English-CV-2026-04-05.pdf">English</a> | <a href="https://zhiwei-hu.github.io/files/Zhiwei-Hu-Chinese-CV-2026-04-05.pdf">中文</a>.</div>
 
 ## Research Interests
 
@@ -20,7 +20,8 @@ redirect_from:
 
 ## Education
 
-+ Sept 2022 – June 2026 (Expected), **PhD in Information Resources Management**, Nanjing University
++ Sept 2022 –, **PhD in Information Resources Management**, Nanjing University
+  + Sept 2025 – Sept 2026, Visiting Researcher / Joint PhD Student sponsored by the China Scholarship Council (CSC), School of Advanced Study, University of London
 + Sept 2019 – June 2022, **MSc in Information Science**, Nanjing University
   + Thesis Title: "The Knowledge Structure and Intellectual Diversity of iSchools"
 + Sept 2015 – June 2019, **BSc in Information Management & Systems**, Nanjing University
